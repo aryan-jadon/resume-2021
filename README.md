@@ -1,2 +1,1 @@
-# resume-2021
-resume repo
+# Aryan Resume
